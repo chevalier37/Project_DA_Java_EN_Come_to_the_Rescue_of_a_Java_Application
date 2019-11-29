@@ -65,7 +65,6 @@ public class ReadSymptomDataFromFile implements ISymptomReader {
 					line = reader.readLine();
 				}
 			}
-
 		}
 	}
 
